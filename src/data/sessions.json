@@ -1,0 +1,35 @@
+[
+  { "id":20,
+    "title": "DARK ENERGY",
+    "description": "BRIGHTENS THE WORLD",
+    "img": "images/Bitmap.png",
+    "alt": "Public Adjuster",
+    "link": "#",
+    "speakers":[
+      {"id":20,
+    "name":"jaope yuan"}
+    ]
+  },
+  {"id":21,
+    "title": "ROBOTICS",
+    "description": "THEY ARE HERE AND THEY PLAY",
+    "img": "images/Bitmap(1).png",
+    "alt": "Public",
+    "link": "robotics.html",
+    "speakers":[
+      {"id":21,
+    "name":"jalete Roan"}
+    ]
+  },
+  {"id":22,
+    "title": "STRANGERS RISE",
+    "description": "ASCENSION GOES TECHNICAL",
+    "img": "images/shutterstock_211091626.png",
+    "alt": "Public",
+    "link": "#",
+    "speakers":[
+      {"id":22,
+    "name":"jame Ryan"}
+    ]
+  }
+]
